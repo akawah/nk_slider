@@ -1,0 +1,1457 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"per",
+				"perItem2"
+			],
+			[
+				"flex",
+				"flex-shrink"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"le",
+				"flex-start"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"flex-",
+				"flex-wrap"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"fle",
+				"flex-grow"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"obj",
+				"object-fit"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"remove",
+				"removeAttr"
+			],
+			[
+				"slide",
+				"slideUp"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"conte",
+				"content"
+			],
+			[
+				"d",
+				"default"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"wra",
+				"word-wrap"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"bg",
+				"bg\tbackground: #${1:000};"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"pos",
+				"pos-r\tposition: relative;"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"po",
+				"pos-a\tposition: absolute;"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"c",
+				"circle"
+			],
+			[
+				"cont",
+				"align-content"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"wrap",
+				"flex-wrap"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"lk",
+				"lk_my_company_edit.html"
+			],
+			[
+				"lk_my",
+				"lk_my_product_edit.html"
+			],
+			[
+				"lk_",
+				"lk_my_reviews.html"
+			],
+			[
+				"s",
+				"flex-start"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"align-",
+				"align-items"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"msg",
+				"msgHeight"
+			],
+			[
+				"sel",
+				"align-self"
+			],
+			[
+				"direc",
+				"flex-direction"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"dire",
+				"flex-direction"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"grow",
+				"flex-grow"
+			],
+			[
+				"ob",
+				"object-fit"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ar",
+				"arResult"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"н",
+				"несколько"
+			],
+			[
+				"arP",
+				"arProp"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"bord",
+				"border-top"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"file_",
+				"file_put_contents"
+			],
+			[
+				"dir",
+				"flex-direction"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"ACTIVE",
+				"ACTIVE_FROM"
+			],
+			[
+				"che",
+				"checkbox"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"post",
+				"post_id"
+			],
+			[
+				"btn",
+				"btn-default"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"wr",
+				"wrap"
+			],
+			[
+				"fl",
+				"flex"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"text-align",
+				"text-align"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"dec",
+				"text-decoration"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"mat",
+				"margin-bottom"
+			],
+			[
+				"type",
+				"list-style-type"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"box",
+				"box-sizing"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 3680,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 3238,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 247.0,
+		"last_filter": "terminal ",
+		"selected_items":
+		[
+			[
+				"terminal ",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Remote…"
+			]
+		],
+		"width": 537.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"ls",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/wah/.0dev/0_dev/nk_slider",
+		"/home/wah/.0dev/0_dev/nk_slider/app"
+	],
+	"file_history":
+	[
+		"/home/wah/.0dev/0_pushkino_new/app/js/nk_slider.js",
+		"/home/wah/.0dev/0_pushkino_new/app/js/action.js",
+		"/home/wah/.0dev/0_pushkino_new/app/js/coupon.js",
+		"/home/wah/.0dev/0_pushkino_new/app/js/index.js",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/index/_news.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/product/_product_cont.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/js/product.js",
+		"/home/wah/.0dev/0_pushkino_new/app/js/company.js",
+		"/home/wah/.0dev/0_pushkino_new/app/html/company.html",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/company_vip/_company_cont_vip.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/js/script.js",
+		"/home/wah/.0dev/0_pushkino_new/app/html/index.html",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/lk_my_companies/_my_companies.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/lk/_mixins.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/_config.scss",
+		"/home/wah/.0dev/0_dev/nk_slider/gulpfile.js",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/index/_companies.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/footer/_footer_top.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/html/include/footer.html",
+		"/home/wah/.0dev/0_pushkino_new/app/html/include/social_nets.html",
+		"/home/wah/.0dev/0_pushkino_new/gulpfile.js",
+		"/home/wah/.0dev/pushkino-live.ru/logs/desktop.php",
+		"/home/wah/.0dev/pushkino-live.ru/logs/index.php",
+		"/home/wah/.0dev/pushkino-live.ru/logs/index.css",
+		"/home/wah/.0dev/pushkino-live.ru/logs/footer.php",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/index/_coupons.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/lk_coupons.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/lk_my_action_edit.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/lk_my_actions.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/lk_my_companies.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/lk_my_company_edit.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/lk_my_coupon_edit.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/lk_my_coupons.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/lk_my_product_edit.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/lk_my_products.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/lk_my_review_edit.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/lk_my_reviews.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/lk_my_service_edit.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/lk_my_services.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/lk_profile.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/html/lk_my_review_edit.html",
+		"/home/wah/.0dev/0_pushkino_new/app/html/lk_my_products.html",
+		"/home/wah/.0dev/0_pushkino_new/app/html/lk_my_product_edit.html",
+		"/home/wah/.0dev/0_pushkino_new/app/html/lk_my_coupons.html",
+		"/home/wah/.0dev/0_pushkino_new/app/html/lk_my_coupon_edit.html",
+		"/home/wah/.0dev/0_pushkino_new/app/html/lk_my_company_edit.html",
+		"/home/wah/.0dev/0_pushkino_new/app/html/lk_my_companies.html",
+		"/home/wah/.0dev/0_pushkino_new/app/html/lk_my_actions.html",
+		"/home/wah/.0dev/0_pushkino_new/app/html/lk_my_action_edit.html",
+		"/home/wah/.0dev/0_pushkino_new/app/html/lk_coupons.html",
+		"/home/wah/.0dev/0_pushkino_new/app/html/lk_my_reviews.html",
+		"/home/wah/.0dev/0_pushkino_new/app/html/lk_my_service_edit.html",
+		"/home/wah/.0dev/0_pushkino_new/app/html/lk_my_services.html",
+		"/home/wah/.0dev/0_pushkino_new/app/html/lk_profile.html",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/footer.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/lk/_lk_main.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/reviews/_reviews_cont.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/lk_my_review_edit/_my_review_edit.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/html/reviews.html",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/lk_my_actions/_my_actions.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/lk_my_products/_my_products.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/lk_my_services/_my_services.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/lk_my_coupons/_my_coupons.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/html/include/popups/enter.html",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/popups/_enter.scss",
+		"/home/wah/.0dev/0_dev/index.html",
+		"/home/wah/.0dev/0_pushkino_new/build/php.php",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/lk_coupons/_coupons.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/contestant_edit/_contestant_edit_cont.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/lk_my_service_edit/_my_service_edit.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/lk_my_product_edit/_my_product_edit.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/lk_my_coupon_edit/_my_coupon_edit.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/lk_my_company_edit/_my_company_edit.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/lk_my_action_edit/_my_action_edit.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/popups/_common.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/_common.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/top/_top_menu.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/js/lk_my_coupons.js",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/lk_profile/_profile.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/js/lk_left_menu.js",
+		"/home/wah/.0dev/0_pushkino_new/build/css/lk_my_coupons.css",
+		"/home/wah/.0dev/0_pushkino_new/lk_my_coupons.css",
+		"/home/wah/.0dev/0_pushkino_new/app/html/map.html",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/lk_my_reviews/_my_reviews.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/js/rubrika.js",
+		"/home/wah/.0dev/0_pushkino_new/app/js/lk_profile.js",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/company_free/_company_cont_free.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/html/company_free.html",
+		"/home/wah/.0dev/0_pushkino_new/app/html/company_spec.html",
+		"/home/wah/.0dev/0_pushkino_new/build/css/lk_profile.css",
+		"/home/wah/.0dev/0_pushkino_new/build/lk_profile.html",
+		"/home/wah/.0dev/0_pushkino_new/app/html/include/header.html",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/company.scss",
+		"/home/wah/.0dev/0_pushkino_new/build/css/company.css",
+		"/home/wah/.0dev/0_pushkino_new/app/html/contestant_edit.html",
+		"/home/wah/.0dev/0_pushkino_new/app/js/share42.js",
+		"/home/wah/.0dev/0_pushkino_new/app/html/coupons_actions.html",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/coupon/_coupon_cont.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/listing/_placement.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/index/_slider.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/catalog/_list.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/competitions/_competitions_cont.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/contestant/_contestant_cont.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/html/action.html",
+		"/home/wah/.0dev/0_pushkino_new/app/html/article.html",
+		"/home/wah/.0dev/0_pushkino_new/app/html/catalog.html",
+		"/home/wah/.0dev/0_pushkino_new/app/html/company_vip.html",
+		"/home/wah/.0dev/0_pushkino_new/app/html/competitions.html",
+		"/home/wah/.0dev/0_pushkino_new/app/html/contestant.html",
+		"/home/wah/.0dev/0_pushkino_new/app/html/coupon.html",
+		"/home/wah/.0dev/0_pushkino_new/app/html/include/popups/review.html",
+		"/home/wah/.0dev/0_pushkino_new/app/html/listing.html",
+		"/home/wah/.0dev/0_pushkino_new/app/html/news.html",
+		"/home/wah/.0dev/0_pushkino_new/app/html/product.html",
+		"/home/wah/.0dev/0_pushkino_new/app/html/rubrika.html",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/_fonts.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/rubrika/_list.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/sidebar/_side.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/top/_top.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/top/_top_mid.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/content/_content.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/coupons_actions/_coupons_actions_cont.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/footer/_footer_green.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/footer/_footer_main.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/index/_bottom_info.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/index/_content.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/header.scss",
+		"/home/wah/.0dev/0_pushkino_new/app/sass/article.scss"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 142.0,
+		"where_history":
+		[
+			"/home/wah/.0dev/0_pushkino_new/app/js",
+			"/home/wah/.0dev/0_pushkino_new/app/html",
+			"/home/wah/.0dev/0_pushkino_new/app/sass",
+			"/home/wah/.0dev/0_pushkino_new/app/js",
+			"/home/wah/.0dev/0_pushkino_new/app",
+			"/home/wah/.0dev/0_pushkino_new/app/sass",
+			"/home/wah/.0dev/0_pushkino_new/app/html",
+			"/home/wah/.0dev/0_pushkino_new/app/sass",
+			"/home/wah/.0dev/0_pushkino_new/app/html",
+			"/home/wah/.0dev/0_pushkino_new/app",
+			"/home/wah/.0dev/0_pushkino_new/app/js",
+			"/home/wah/.0dev/0_pushkino_new/app/sass",
+			"/home/wah/.0dev/0_pushkino_new/app/html",
+			"/home/wah/.0dev/0_pushkino_new/app/sass",
+			"/home/wah/.0dev/0_pushkino_new/build"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"lastRun",
+			"services",
+			"<img src=\"",
+			"<img data-src=",
+			"<img src=\"",
+			"plumber",
+			"notify",
+			"newer",
+			"work",
+			"perItem",
+			"new Carousel(",
+			"item",
+			"setting",
+			"soc",
+			"inWrap",
+			"num_slide",
+			"radioBtns",
+			"radio",
+			"position",
+			"privates.opt",
+			"perItem",
+			"company_prev-next",
+			"img_index",
+			"document.body.clientHeight",
+			"<script src=\"js/jquery-3.2.1.min.js\"></script>\n<script src=\"js/script.js\"></script>\n<script src=\"js/lk_left_menu.js\"></script>",
+			"300",
+			"removeClass",
+			"document.body.clientWidth",
+			"<a href=\"lk_my_coupons.html\" class=\"link coupons\"><span>Мои купоны</span></a>",
+			"<a href=\"lk_my_companies.html\" class=\"link companies\"><span>Мои компании</span></a>",
+			"890",
+			"hts",
+			"PerItem",
+			"newPerItem",
+			"perItem",
+			"newPerItem",
+			"cWidth",
+			"perItem",
+			"p.perItem",
+			"perItem",
+			"inito",
+			"школ",
+			"initial",
+			"max-w",
+			"review_btn_red",
+			"review_btn_grey",
+			"review_btn_red",
+			"                                            <div class=\"send\">Отправить</div>\n                                            <div class=\"cancel\">Отменить</div>",
+			"lk_btn_green()",
+			"review_btn_green()",
+			"review_btn_green",
+			"review_btn_grey()",
+			"review_btn_grey",
+			"450px",
+			"overlay",
+			"mts",
+			"mtm",
+			"50% - 20px",
+			"555",
+			"420",
+			"width",
+			"display:",
+			"'.lk .two_col_wrap .left'",
+			"rollup",
+			"delete",
+			"z-index",
+			"review_btn_green",
+			"delete",
+			"${",
+			".enter",
+			"_free",
+			"_spec",
+			"_vip",
+			"f3cdc2",
+			"a.",
+			" class=\"link ",
+			" href=",
+			" no-repeat",
+			"icons.svg",
+			"gamb_close",
+			"imglk/",
+			"imglk/coupon.svg",
+			"coupon.svg",
+			"imglk/lege.png",
+			"lege.png",
+			"phone_sm.svg",
+			"phone.svg",
+			"plus.svg",
+			"user.svg",
+			"close.svg",
+			"close_color.svg",
+			"close.svg",
+			"bubble.svg",
+			"imglk",
+			"1.svg",
+			"img_[a-z_]*/",
+			"img_[a-z]*/",
+			"img_[a-z]/",
+			"img_",
+			"img_*/",
+			"img_",
+			"img_*/",
+			"item_slider_green.svg",
+			"arr_coup_l.svg",
+			"url(img/arr",
+			"arr_slider_l.svg",
+			"img_index/",
+			"img_index",
+			"('fonts/",
+			"<link rel=\"stylesheet\" href=\"",
+			"<script src=\"",
+			"img_index/",
+			"img_*/",
+			"img_lk/",
+			"imglk/",
+			"img/",
+			"img_*/",
+			"img_lk/",
+			"background-[^position]*",
+			"img_*/",
+			"img_(^lk)*/",
+			"star_empty",
+			"phone",
+			"more",
+			"less",
+			"pizza.png",
+			"img_listing/map",
+			"img_competitions/like.svg"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"../img",
+			"<div class=\"footer_top\"></div>\n\n<script src=\"js/jquery-3.2.1.min.js\"></script>\n<script src=\"js/script.js\"></script>\n<script src=\"js/lk_left_menu.js\"></script>",
+			"<a href=\"lk_my_coupons.html\" class=\"link couponslist\"><span>Мои купоны</span></a>",
+			"<a href=\"lk_my_companies.html\" class=\"link company\"><span>Мои компании</span></a>",
+			"                                            <div class=\"btn_wrap\">\n                                                <div class=\"send\">Отправить</div>\n                                                <div class=\"cancel\">Отменить</div>\n                                            </div>",
+			"lk_btn_green()",
+			"lk_btn_grey()",
+			"img/",
+			"img/coupon_lk.svg",
+			"img/lege_lk.png",
+			"../img/",
+			"img/",
+			"../img/",
+			"img/",
+			"url('../img/arr",
+			"img/",
+			"('../fonts/",
+			"<link rel=\"stylesheet\" href=\"css/",
+			"<script src=\"js/",
+			"img/",
+			"imglk/",
+			"../imglk/",
+			"../img/",
+			"img/",
+			"imglk/",
+			"991px",
+			" + mob",
+			"mob_menu",
+			"</a></li>",
+			"<li><a href",
+			"<ul class=\"subcats\" id",
+			"</ul>\\n\\n<ul id",
+			"    ",
+			"<ul id=\"\\1\">",
+			"<ul id=\"$1\">",
+			"</li>",
+			"<li",
+			"\\n",
+			"",
+			"\\n",
+			"",
+			"\\n",
+			"",
+			"<a",
+			"",
+			" ",
+			"<a href=\"#\" class=\"like\"></a>",
+			" ",
+			"#result_ndkl",
+			"#result",
+			"#fff",
+			"\"fonts/",
+			"",
+			"= ",
+			"",
+			"\\n",
+			"",
+			"http://pushkino-live.ru/dev_new/fonts/",
+			"http://pushkino-live.ru/fonts/",
+			"",
+			"'",
+			"",
+			"res_coupons",
+			"#",
+			"",
+			"#",
+			"'KIA Sportage 2016'",
+			"'Киа Бонго 2016'",
+			"'KIA Mohave 2016'",
+			"'KIA Sorento'",
+			"'KIA Sportage 2015 New'",
+			"'KIA Optima'",
+			"'KIA cee’d GT'",
+			"'KIA Ceed SW'",
+			"KIA",
+			"'KIA Cerato'",
+			"https:",
+			"; ?>",
+			"<?php echo ",
+			"контейнер",
+			"$get_coord",
+			"$wp_query",
+			"",
+			"\\n}",
+			"featured",
+			"#banners",
+			"<link href=\"../css/",
+			"<script src=\"../js/",
+			"<a href=\"#\">",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3680,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3068,
+								3068
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										14,
+										15
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/angle_bracket.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										3064,
+										3067
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										258,
+										261
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3238,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2010,
+								2010
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2187,
+										2188
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1944,
+										1945
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2258,
+										2259
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1944,
+										1945
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Theme - Afterglow/Prefs/Langs/Gulpfile JS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 420.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 124.0
+	},
+	"pinned_build_system": "",
+	"project": "nk_slider.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/.0dev/0_pushkino_new/pushkino.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 261.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

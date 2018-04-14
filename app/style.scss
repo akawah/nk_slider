@@ -1,0 +1,155 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+body {
+    padding-top: 30px;
+    font-family: sans-serif;
+    line-height: 1;
+    h3{
+        margin: 10px 0 0 0;
+        color: #888;
+        font-size: 16px;
+        font-weight: bold;
+    }
+    .wrapper {
+        position: relative;
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 15px;
+        .one, .multi, .nums{
+            width: 100%;
+            overflow: hidden;
+            .slider{
+                position: relative;
+                width: calc(100% + 30px);  // 30px - это то, что высовывается справа
+                overflow: hidden;
+                .wrap.s-notransition {
+                    transition: 0s;
+                }
+                .wrap{
+                    display: flex;
+                    position: relative;
+                    width: 100%;
+                    transition: transform .5s;
+                    will-change: transform;
+                    z-index: 1;
+                    .item{
+                        position: relative;
+                        margin-right: 30px; // маржин - одинаковый с другими выше
+                        overflow: hidden;
+                        .image{
+                            img{
+                                display: block;
+                                min-width: 100%;
+                                height: 160px;
+                                object-fit: cover;
+                            }
+                        }
+                        .text{
+                            position: absolute;
+                            top: 0;
+                            left: 0;
+                            width: 100%;
+                            padding: 20px;
+                            color: #eee;
+                            font-size: 18px;
+                            font-weight: 400;
+                            a{
+                                color: inherit;
+                            }
+                        }
+                    }
+                    .item.blank{
+                        box-shadow: none;
+                        border: 1px solid transparent;
+                    }
+                }
+            }
+            .prev, .next{
+                position: absolute;
+                z-index: 9;
+                width: 40px;
+                height: 40px;
+                top: calc(50% - 20px);
+                border-radius: 20px;
+                cursor: pointer;
+                opacity: 0.3;
+                transition: opacity 0.3s;
+                &:hover{ opacity: 0.8; }
+            }
+            .prev{
+                left: -4px;
+                background: #888 url('img/arr_l.svg') center left 12px no-repeat / 35%;
+            }
+            .next{
+                right: -4px;
+                background: #888 url('img/arr_r.svg') center right 12px no-repeat / 35%;
+            }
+        }
+        .one{
+            .slider{
+                .wrap{
+                    .item{
+                        flex: 0 0 calc(100% - 30px); // ширина для количества блоков в карусели
+                    }
+                }
+            }
+        }
+        .multi{
+            .slider{
+                .wrap{
+                    .item{
+                        flex: 0 0 calc(33.33% - 30px); // ширина для количества блоков в карусели
+                        @media screen and (max-width: 768px) {
+                            flex: 0 0 calc(50% - 30px);
+                        }
+                        @media screen and (max-width: 560px) {
+                            flex: 0 0 calc(100% - 30px);
+                        }
+                    }
+                }
+            }
+        }
+        .nums{
+            .slider{
+                .wrap{
+                    .item{
+                        flex: 0 0 calc(33.33% - 30px); // ширина для количества блоков в карусели
+                        @media screen and (max-width: 768px) {
+                            flex: 0 0 calc(50% - 30px);
+                        }
+                        @media screen and (max-width: 560px) {
+                            flex: 0 0 calc(100% - 30px);
+                        }
+                    }
+                }
+            }
+            .radio{
+                position: absolute;
+                width: 100%;
+                text-align: center;
+                div{ // элемент радио-кнопка
+                    display: inline-block;
+                    margin: 10px 5px 5px 5px;
+                    padding: 4px 8px;
+                    bottom: -20px;
+                    color: #888;
+                    border: 1px solid #ccc;
+                    cursor: pointer;
+                    &.active{
+                        color: #ccc;
+                        background: #eee;
+                        border: 1px solid #ccc;
+                        cursor: default;
+                    }
+                }
+            }
+        }
+    }
+}

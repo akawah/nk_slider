@@ -1,0 +1,39 @@
+{
+  "name": "dev_sample",
+  "version": "1.0.0",
+  "description": "dev_sample",
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "dependencies": {
+    "gulp-sass": "^3.1.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "browser-sync": "^2.23.6",
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-babel": "^7.0.1",
+    "gulp-cli": "^2.0.1",
+    "gulp-debug": "^3.2.0",
+    "gulp-group-css-media-queries": "^1.2.0",
+    "gulp-if": "^2.0.2",
+    "gulp-newer": "^1.4.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-path": "^4.0.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-sourcemap": "^1.0.1",
+    "gulp-sourcemaps": "^2.6.3",
+    "gulp-svgmin": "^1.2.4",
+    "gulp-uglify": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wah",
+  "license": "ISC"
+}
